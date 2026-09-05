@@ -128,4 +128,5 @@ Covers regex matching, routing logic (with BERT/LLM mocked out), LLM response ca
 ## Tech stack
 
 Python · Streamlit · FastAPI · LangChain / LangGraph · Groq (Llama 3.3) · sentence-transformers · scikit-learn · pandas 
+cool
 
